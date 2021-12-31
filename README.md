@@ -1,4 +1,10 @@
-### Hi there 👋
+안녕하세요. 백엔드 개발자 허도영입니다.
+
+
+[Languages]
+JavaScript, TypeScript, Python
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doldolma&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
