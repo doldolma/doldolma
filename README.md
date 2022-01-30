@@ -2,7 +2,7 @@
 
 
 [Languages]
-JavaScript, TypeScript, Python
+JavaScript, TypeScript, Python, JAVA
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doldolma&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
