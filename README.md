@@ -5,7 +5,7 @@
 JAVA, JavaScript, TypeScript, Python
 
 [Framworks]
-Spring Boot, Express.jS, Flask, React.js
+Spring Boot, Express, Flask, React
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doldolma&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
