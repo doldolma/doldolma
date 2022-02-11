@@ -2,7 +2,7 @@
 
 
 [Languages]
-JAVA, JavaScript, TypeScript, Python
+JAVA, JavaScript, Python
 
 [Framworks]
 Spring Boot, Express, Flask, React
