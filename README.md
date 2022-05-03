@@ -1,8 +1,4 @@
-Hi there!
-
-Java Spring, NodeJS express, Python Flask 를 사용합니다
-
-- 🌱 I’m currently learning ... go gin-gonic..
+Hi there
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doldolma&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
